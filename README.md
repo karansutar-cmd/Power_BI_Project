@@ -8,7 +8,7 @@ An interactive Power BI analytics dashboard providing visibility into Britannia'
 
 ![Dashboard Overview](dashboard_overview.png)
 
-![Detailed Performance](dashboard_insights.png)
+![Detailed Performance](dashboard_insight.png)
 
 ---
 
